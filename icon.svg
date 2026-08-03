@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#09090f"/>
+  <rect x="60" y="60" width="392" height="392" rx="60" fill="#1a1033"/>
+  <!-- Scissors / cut icon representing studio -->
+  <circle cx="256" cy="256" r="100" fill="none" stroke="#7c3aed" stroke-width="28"/>
+  <line x1="256" y1="156" x2="256" y2="356" stroke="#7c3aed" stroke-width="20" stroke-linecap="round"/>
+  <line x1="156" y1="256" x2="356" y2="256" stroke="#7c3aed" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="256" cy="256" r="22" fill="#7c3aed"/>
+</svg>
